@@ -1,0 +1,5 @@
+{
+  "name": "StudyMate",
+  "description": "A social study timer application allowing users to track subject-specific study times and compare progress with friends.",
+  "requestFramePermissions": []
+}
